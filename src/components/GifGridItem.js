@@ -1,9 +1,12 @@
 import React from 'react'
 
-export const GifGridItem = (img) => {
-    console.log(img);
+export const GifGridItem = ({id, title, url}) => {
+   // console.log(id, title, url);
     return (
-    <div>{img.title}</div>
+    <div className="card animate__animated animate__bounce">
+    <img src= { url } alt={ title } height="100px"/>
+    <p> { title } </p>
+    </div>
 
   )
   
