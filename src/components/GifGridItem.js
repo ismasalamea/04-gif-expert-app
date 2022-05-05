@@ -11,3 +11,10 @@ export const GifGridItem = ({id, title, url}) => {
   )
   
 }
+
+/*
+
+1.- enzyme
+2.- enzyme to JSON
+
+*/

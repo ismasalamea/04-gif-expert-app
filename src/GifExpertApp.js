@@ -21,7 +21,7 @@ export const GifExpertApp = () => {
                     categorias.map(categoria => (
                         <GiftGrid 
                             key = { categoria }
-                            categoria={categoria}
+                            categoria={ categoria }
                         />
                     ))}
             </ol>
