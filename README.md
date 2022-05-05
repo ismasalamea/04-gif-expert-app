@@ -1,6 +1,4 @@
-GIF EXPERT APP - Ismael Salamea
-
-# Getting Started with Create React App
+# GIF EXPERT APP - Ismael Salamea Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
